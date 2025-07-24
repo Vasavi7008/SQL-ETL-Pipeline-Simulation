@@ -1,0 +1,9 @@
+sale_id,customer_name,product,quantity,price,sale_date
+1.0,Alice,Widget,2,100.0,2025-07-01
+2.0,Bob,Gadget,1,200.0,2025-07-02
+3.0,Charlie,Widget,3,100.0,2025-07-03
+3.0,Charlie,Widget,3,100.0,2025-07-03
+4.0,David,Gizmo,5,150.0,2025-07-04
+5.0,Eva,Gadget,2,200.0,2025-07-05
+6.0,Frank,Widget,4,100.0,2025-07-06
+,George,Gadget,2,200.0,2025-07-07
